@@ -1,0 +1,773 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data-",
+				"data-ng-click"
+			],
+			[
+				"na",
+				"nativeName"
+			],
+			[
+				"ng",
+				"data-ng-model"
+			],
+			[
+				"p",
+				"parameters"
+			],
+			[
+				"Image",
+				"image-filters"
+			],
+			[
+				"c",
+				"canvasHight"
+			],
+			[
+				"C",
+				"canvas"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"shell",
+				"shell_cmd"
+			],
+			[
+				"filterTo",
+				"filterToString"
+			],
+			[
+				"ima",
+				"imageFilterAttributeName"
+			],
+			[
+				"function",
+				"functionParametersString"
+			],
+			[
+				"css",
+				"cssFunctionParameterSeparatorRegex"
+			],
+			[
+				"get",
+				"getcwd"
+			],
+			[
+				"lorem",
+				"lorem	Lorem ipsum"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/scripts/directives/image-editor.js",
+			"settings":
+			{
+				"buffer_size": 3394,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/controllers/upload.js",
+			"settings":
+			{
+				"buffer_size": 339,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ye",
+				"Yeoman: Add Service"
+			],
+			[
+				"ad",
+				"Yeoman: Add Service"
+			],
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"dire",
+				"Yeoman: Add Directive"
+			],
+			[
+				"add",
+				"Yeoman: Add Directive"
+			],
+			[
+				"new fil",
+				"File: New View into File"
+			],
+			[
+				"add vie",
+				"Yeoman: Add View"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"livere",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"jqu",
+				"Yeoman: Add jQuery Plugin"
+			],
+			[
+				"jq",
+				"Yeoman: Add jQuery Plugin"
+			],
+			[
+				"yeodi",
+				"Yeoman: Add Directive"
+			],
+			[
+				"yect",
+				"Yeoman: Add Controller"
+			],
+			[
+				"ctrol",
+				"Yeoman: Add Controller"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"YE",
+				"SublimeYeoman: Create project"
+			],
+			[
+				"BROW",
+				"Preferences: Browse Packages"
+			],
+			[
+				"yeo",
+				"SublimeYeoman: Create project"
+			],
+			[
+				"yo",
+				"Yeoman: Add Directive"
+			],
+			[
+				"liver",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"lint",
+				"Tag: Lint Selection or Document"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":s",
+				":w - Save"
+			],
+			[
+				"inpa",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"P",
+				"Package Control: Disable Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"r",
+				"Package Control: Remove Package"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"new ",
+				"File: New View into File"
+			],
+			[
+				"bo",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packg",
+				"Package Control: Install Package"
+			],
+			[
+				"packge",
+				"Package Control: Remove Package"
+			],
+			[
+				"bow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"select al",
+				"Bookmarks: Select All"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			":!start .",
+			":!ping",
+			"grunt server",
+			"dir(tempfile.NamedTemporaryFile(mode='w+b', prefix = 'tsc_', suffix = '.ts', delete = False).file)",
+			"tempfile.NamedTemporaryFile(mode='w+b', prefix = 'tsc_', suffix = '.ts', delete = False).file",
+			"dir(tempfile.NamedTemporaryFile(mode='w+b', prefix = 'tsc_', suffix = '.ts', delete = False))",
+			"vars(tempfile.NamedTemporaryFile(mode='w+b', prefix = 'tsc_', suffix = '.ts', delete = False))",
+			"tempfile.NamedTemporaryFile(mode='w+b', prefix = 'tsc_', suffix = '.ts', delete = False).open()",
+			"tempfile.NamedTemporaryFile(mode='w+b', prefix = 'tsc_', suffix = '.ts', delete = False)",
+			"import tempfile",
+			"tempfile.NamedTemporaryFile(prefix = 'tsc_', suffix = '.ts', delete = False).write('asdads')",
+			"tempfile.NamedTemporaryFile(prefix = 'tsc_', suffix = '.ts', delete = False)",
+			"import tempfile",
+			"os.path",
+			"SilverCity",
+			"restart",
+			"__import__('SilverCity')",
+			"__import__(SilverCity)",
+			"os.getcwdu()",
+			"os.getcwd()",
+			"import os",
+			"os.getcwd()",
+			"enable_live_tag_linting_document_types	= [item.lower() for item in s.get('enable_live_tag_linting_document_types', '')]",
+			"Pref.enable_live_tag_linting_document_types	= [item.lower() for item in s.get('enable_live_tag_linting_document_types', '')]",
+			"[item.lower() for item in s.get('enable_live_tag_linting_document_types', '')]",
+			"s.get('enable_live_tag_linting_document_types', '')",
+			"s.get('enable_live_tag_linting', True)",
+			"s.",
+			"s = sublime.load_settings('Tag Package.sublime-settings')",
+			"sublime.load_settings('Tag Package.sublime-settings')",
+			"C:\\Users\\Michael\\AppData\\Roaming\\Sublime Text 3\\Packages\\ASCII Decorator\\ASCII-Decorator.py",
+			"print 'sad'",
+			"print 'indentsad'",
+			"print 'indent'",
+			"print \"indent\"",
+			"print 'indent'",
+			"print indent"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Drassie/app/views/upload.html",
+		"/C/Drassie/app/index.html",
+		"/C/Drassie/app/scripts/models/filter-types.js",
+		"/C/Drassie/app/bower_components/jquery-mobile/jquery-mobile.js",
+		"/C/Drassie/app/scripts/controllers/upload.js",
+		"/C/Drassie/app/bower_components/jquery-mobile/index.php",
+		"/C/Drassie/app/scripts/directives/image-editor.js",
+		"/C/Drassie/bower.json",
+		"/C/Drassie/app/bower_components/angular/angular.js",
+		"/C/Drassie/app/scripts/directives/file-model.js",
+		"/C/Drassie/app/scripts/jquery-plugins/image-filter.js",
+		"/C/Drassie/app/scripts/app.js",
+		"/C/Drassie/app/scripts/directives/file-change.js",
+		"/D/New folder/directives/fileModel.js",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/VintageEx/ex_commands.py",
+		"/C/Drassie/Drassie.sublime-project",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/VintageEx-master/vintage_ex.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/VintageEx-master/plat/windows.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/VintageEx-master/ex_commands.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/VintageEx-master/vex/shell.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/VintageEx-master/vex/parsers/g_cmd.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/VintageEx-master/vex/parsers/s_cmd.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/VintageEx-master/vex/parsers/cmd_line.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/VintageEx-master/ex_search_cmd.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/VintageEx-master/Support/VintageEx Cmdline.tmLanguage",
+		"/C/Drassie/Gruntfile.js",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeYeoman/Templates/AngularApp/.editorconfig",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeYeoman/setpath.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeYeoman/yeoman.sublime-build",
+		"/C/Drassie/Gruntfile - Copy.js",
+		"/C/Drassie/app/scripts/directives/fileModel.js",
+		"/C/Drassie/src/.jshintrc",
+		"/C/Fashion/Scripts/Controllers/UploadPageCtrl.js",
+		"/C/Fashion/Scripts/jQueryPlugins/ImageFilter.js",
+		"/C/Drassie/src/image-filter.js",
+		"/C/Drassie/test/image-filter.html",
+		"/C/Drassie/.bowerrc",
+		"/C/Drassie/bower - Copy.json",
+		"/C/Drassie/ - Copy.jshintrc",
+		"/C/Drassie/.jshintrc",
+		"/C/Drassie/ - Copy.gitignore",
+		"/C/Drassie/.gitignore",
+		"/C/Drassie/.editorconfig",
+		"/C/Drassie/ - Copy.editorconfig",
+		"/C/Drassie/ - Copy.bowerrc",
+		"/C/Drassie/.travis - Copy.yml",
+		"/C/Drassie/.travis.yml",
+		"/C/Windows/lר",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/YeomanAngular/YeomanAngular.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/YeomanAngular/Default.sublime-commands",
+		"/C/Drassie/app/scripts/directives/FileModel.coffee",
+		"/C/Fashion/Scripts/Modules/FashionModule.js",
+		"/C/Fashion/Closets.htm",
+		"/C/Fashion/Upload.html",
+		"/C/Users/Michael/Desktop/Projects/Classfier/Classfier/ClassifierTest/bin/Debug/__Train__.txt",
+		"/C/Fashion/Scripts/Controllers/ClosetsPageCtrl.js",
+		"/C/Users/Michael/Desktop/sublime_text.exe",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe",
+		"/C/Users/Michael/Desktop/sublime_text - Copy.exe",
+		"/C/Program Files/Sublime Text 3/sublime_text - Copy.exe",
+		"/C/Program Files/Sublime Text 3/sublime_text cp.exe",
+		"/C/Program Files/Sublime Text 3/sublime_textbk.exe",
+		"/C/Program Files/Sublime Text 3/sublime_text bk.exe",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/TypeScript Compiler/test/animal.ts",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/sublime-code-preview-master/codepreview.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/TypeScript Compiler/typescript_compiler.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/User/TypeScript Compiler.sublime-settings",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/TypeScript Compiler/test/animal.js",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/TypeScript Compiler/TypeScript Compiler.sublime-settings",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/Package Control/package_control/__init__.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/TypeScript Compiler/test.ts",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/ASCII Decorator/Figlet.py",
+		"/C/Users/Michael/test.js",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Installed Packages/TypeScript Compiler.sublime-package",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Installed Packages/SublimeCodeIntel.sublime-package",
+		"/c/michael/test",
+		"/test/michael",
+		"/C/Users/Michael/michael",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/ASCII Decorator/pyfiglet/Figlet.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/libs/CPP.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/libs/Utils.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/ASCII Decorator/pyfiglet/__init__.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SideBarGit/sidebar/__init__.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SideBarGit/sidebar/SideBarGit.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SideBarGit/sidebar/SideBarItem.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SideBarGit/sidebar/SideBarProject.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SideBarGit/sidebar/SideBarSelection.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SideBarGit/SideBarGitCommands.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/libs/HTMLGenerator.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/libs/DispatchHandler.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/libs/SilverCity/LanguageInfo.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/ciElementTree.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/libs/SilverCity/CPP.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/sgmlop.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/libs/SilverCity/_SilverCity.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/libs/SilverCity/__init__.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/libs/ciElementTree.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/_win64/ciElementTree.pyd",
+		"/C/Program Files/Sublime Text 3/sublime_plugin.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/.codeintel/config",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/sublimelinter/modules/base_linter.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/sublimelinter/modules/libs/capp_lint.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/sublimelinter/loader.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/sublimelinter/__init__.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/SideBarGit/StatusBarBranch.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/ASCII Decorator/ASCII-Decorator.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/Tag/tag_close_tag_on_slash.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/Tag/tag_insert_as_tag.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/Tag/tag_close_tag.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/Tag/tag_lint.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/Tag/tag_remove.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/ASCII Decorator/__init__.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/Tag/tag_close_tag_on_slash",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/Tag/tag_remove_attributes.py",
+		"/C/Users/Michael/Desktop/bk/ASCII Decorator/ASCII-Decorator.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/ApplySyntax/ApplySyntax.py",
+		"/C/Users/Michael/Documents/Debugging/Wintellect.Diagnostics/Tests/AssertTest/test.html",
+		"/C/Users/Michael/Documents/Debugging/Wintellect.Diagnostics/Tests/AssertTest/test.js",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/ApplySyntax/ApplySyntax.pyc",
+		"/C/Users/Michael/Documents/Debugging/Wintellect.Diagnostics/Tests/AssertTest/asd.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"+\n",
+			"filterToNativeFilter",
+			"ngrepeatd",
+			"ngrepeat",
+			"ctrl",
+			"NgModelController",
+			"ngModelD",
+			"shell",
+			":9000",
+			"shell",
+			"get_startup_info",
+			"cmd.exe",
+			"cmd",
+			"shell",
+			"run_and_wait",
+			"ExShell",
+			"cmd.exe",
+			"ex_command",
+			"open_shell",
+			"'!",
+			"cmd",
+			"http://",
+			"cmd",
+			"windows",
+			"build",
+			"<script>\n       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\n       ga('create', 'UA-XXXXX-X');\n       ga('send', 'pageview');\n    </script>",
+			"ExecuteGenerator",
+			"]\n",
+			"[]",
+			"UploadPageCtrl",
+			"Fashion",
+			"data-ng-app",
+			"onConfirm",
+			"imagesLoaded",
+			"makeExampleItem",
+			"items",
+			"click",
+			"e",
+			"};\n",
+			"style",
+			"functionParametersStartIndex",
+			"elem",
+			"3342",
+			"3242",
+			"print",
+			"_make_text_safeish",
+			"source",
+			"\\\\",
+			"view",
+			"on_done",
+			"CommandThread",
+			"onDone",
+			"tempfile",
+			"NamedTemporaryFile",
+			"self.sourcefile.write(source)",
+			" self.sourcefile.write(source)",
+			"_make_text_safeish",
+			"except",
+			"print",
+			"print (",
+			"print(",
+			"print(.*)$",
+			"print.*$",
+			"print",
+			".\n",
+			"asddsa",
+			"print",
+			"from",
+			"SilverCity",
+			"from . ",
+			"import",
+			"from .",
+			"import",
+			"from",
+			"import",
+			".",
+			"from . ",
+			"common",
+			"u'",
+			"TEMPFILES_DIR = os.path",
+			"print",
+			"Loader",
+			"print",
+			"= s",
+			"=s",
+			"s.",
+			"data = regexp.sub('<\\\\2\\\\3\\\\4>', data);",
+			"line_endings",
+			"print",
+			"<div>",
+			"Lorem"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"onConfirm",
+			"print(\\1)",
+			"print(%1)",
+			"print(.*)$"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/scripts/directives/image-editor.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3080,
+								3080
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"sublimelinter": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 867.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/scripts/controllers/upload.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"sublimelinter": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.test_runner":
+	{
+		"height": 0.0
+	},
+	"project": "Drassie.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"u",
+				"app\\views\\upload.html"
+			],
+			[
+				"app.html",
+				"app\\index.html"
+			],
+			[
+				".html",
+				"app\\index.html"
+			],
+			[
+				"upload",
+				"app\\scripts\\controllers\\upload.js"
+			],
+			[
+				"angu",
+				"app\\bower_components\\angular\\angular.js"
+			],
+			[
+				"app",
+				"app\\scripts\\app.js"
+			],
+			[
+				"inde",
+				"app\\index.html"
+			],
+			[
+				"filemo",
+				"app\\scripts\\directives\\fileModel.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
