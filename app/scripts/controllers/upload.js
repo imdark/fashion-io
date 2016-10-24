@@ -10,7 +10,7 @@ angular.module('DrassieApp')
 	  		imageFilters: []
   		};
       
-      $scope.loadImageToCanvas = function (imageFileList) {
+    $scope.loadImageToCanvas = function (imageFileList) {
 	    this.imageFile = imageFileList.item(0);
 	  }
   });
